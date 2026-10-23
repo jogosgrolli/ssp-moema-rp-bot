@@ -1,0 +1,13 @@
+{
+  "name": "ssp-moema-rp-bot",
+  "version": "2.3.5",
+  "description": "Bot SSP Moema RP V2.3.3 - painéis e tabelas atuais, sem histórico funcional",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}

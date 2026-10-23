@@ -1,0 +1,135 @@
+{
+  "guildId": "1557400530609774613",
+  "requestChannelId": "1562533280773967872",
+  "logChannelId": "1562535963841003520",
+  "adminRoleIds": [
+    "1562534098357063761",
+    "1557400530697977975"
+  ],
+  "promotionManagerRoleIds": [
+    "1562502687382044682",
+    "1562501623954280489"
+  ],
+  "promotionGifUrl": "https://media.giphy.com/media/111ebonMs90YLu/giphy.gif",
+  "dismissalGifUrl": "https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif",
+  "removeRoleIdsOnApproval": [],
+  "hierarchies": {
+    "military": {
+      "label": "Polícia Militar",
+      "emoji": "👮",
+      "ranks": {
+        "Soldado 2ª Classe": "1562503404515893318",
+        "Soldado 1ª Classe": "1562503391979110510",
+        "Cabo": "1562503410832506920",
+        "3º Sargento": "1562503397796618300",
+        "2º Sargento": "1562503379878547538",
+        "1º Sargento": "1562503385859629128",
+        "Subtenente": "1562503372391846058",
+        "Aspirante": "1562503027129196584",
+        "2º Tenente": "1562503018115768420",
+        "1º Tenente": "1562503007734857879",
+        "Capitão": "1562502823524962404",
+        "Major": "1562502813697974393",
+        "Tenente-Coronel": "1562502687382044682",
+        "Coronel": "1562501623954280489"
+      }
+    },
+    "civil": {
+      "label": "Polícia Civil",
+      "emoji": "🕵️",
+      "ranks": {
+        "Acadepol": "1562652015820017746",
+        "Agente Classe 3": "1562652294267277383",
+        "Agente Classe 2": "1562652397543886848",
+        "Agente Classe 1": "1562652465399074816",
+        "Investigador": "1562652539931861012",
+        "Chefe Investigador": "1562652631703486577",
+        "Delegado Adjunto": "1562652727954116649",
+        "Delegado": "1562652798959489054"
+      }
+    }
+  },
+  "organizations": {
+    "GCM": {
+      "roleId": "1562516372981026826",
+      "type": "military"
+    },
+    "ROMU": {
+      "roleId": "1562516361517867018",
+      "type": "military"
+    },
+    "PMESP": {
+      "roleId": "1562516345168466080",
+      "type": "military"
+    },
+    "ROCAM": {
+      "roleId": "1562516336184402031",
+      "type": "military"
+    },
+    "PMESP TOR": {
+      "roleId": "1562516353171193866",
+      "type": "military"
+    },
+    "BAEP": {
+      "roleId": "1562516366756421693",
+      "type": "military"
+    },
+    "BAEP-ROCAM": {
+      "roleId": "1562516896622846083",
+      "type": "military"
+    },
+    "ROTA": {
+      "roleId": "1562516903526932540",
+      "type": "military"
+    },
+    "CANIL": {
+      "roleId": "1562516909092634737",
+      "type": "military"
+    },
+    "GRAER": {
+      "roleId": "1562517143243853985",
+      "type": "military"
+    },
+    "COE": {
+      "roleId": "1562517410920140810",
+      "type": "civil"
+    },
+    "PCESP": {
+      "roleId": "1562517149707407450",
+      "type": "civil"
+    },
+    "DECAP": {
+      "roleId": "1562517155252273172",
+      "type": "civil"
+    },
+    "DEIC": {
+      "roleId": "1562517160348229694",
+      "type": "civil"
+    },
+    "DHPP": {
+      "roleId": "1562517423867822180",
+      "type": "civil"
+    },
+    "G.E.R": {
+      "roleId": "1562517399427612783",
+      "type": "civil"
+    },
+    "GARRA": {
+      "roleId": "1562517405065019433",
+      "type": "civil"
+    },
+    "PF": {
+      "roleId": "1562517417140293803",
+      "type": "federal"
+    }
+  },
+  "registrationChannelId": "1557400535332552847",
+  "ticketCategoryId": "",
+  "supportPanelChannelId": "1562986223256076429",
+  "commandPanelChannelId": "1562636216208465940",
+  "transferApprovalChannelId": "1563002320650764358",
+  "transferApproverRoleIds": {
+    "colonel": "1562501623954280489",
+    "lieutenantColonel": "1562502687382044682"
+  }
+}
